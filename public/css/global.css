@@ -1,0 +1,7 @@
+.flutuante {
+    position: fixed;
+
+    /*posição top bottom right left*/
+    right: 20px;
+    bottom: 20px;
+}
